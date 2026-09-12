@@ -1,0 +1,19 @@
+h1{
+    color: blueviolet;
+    background-origin: padding-box;
+    border-style: dashed;
+    text-align: center;
+}
+
+#pg-background{
+    background-color:pink;
+}
+body{
+    background: linear-gradient(to right, #ff7e5f 0%, #feb47b 100%);
+}
+table{
+    border-radius: 2cap;
+    color: rgb(5, 38, 27);
+    background-color: rgb(255, 153, 0);
+    
+}
