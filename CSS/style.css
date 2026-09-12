@@ -17,11 +17,27 @@ body{
 
 .bg-red-h1{
     background-color: red;
+    /* padding: 50px; */
+    padding: 20px 50px 60px 200px ;
+     border-radius: 50px; 
+     border-style:solid; 
+     margin: 45px;
 }
 .bg-blue-h1{
     background-color: blue;
+    color: white;
+    font-family: fantasy;
+    font-size: xx-large;
+    text-align: center;
+    letter-spacing: 5ch;
+    text-decoration: underline double;
 }
 
 #pg-background{
     background-color:blueviolet;
+}
+*{
+    /* background-color: black; */
+    margin: 0;
+    padding: 0;
 }
